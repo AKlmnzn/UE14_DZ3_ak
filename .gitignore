@@ -74,3 +74,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# UE14
+Content/__ExternalActors__
+Content/__ExternalObjects__
+
